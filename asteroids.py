@@ -3,8 +3,8 @@ import aiohttp
 import datetime
 
 API_KEY = 'an6PHxhDVYuw17CTWGvypLcLGq3DLhGG0vdeup81'
-start_dates = []
 
+start_dates = []
 date1 = '2023-09-01'
 date2 = '2023-10-05'
 start = datetime.datetime.strptime(date1, '%Y-%m-%d')
