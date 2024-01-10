@@ -2,7 +2,7 @@ import asyncio
 import aiohttp
 import datetime
 
-API_KEY = 'an6PHxhDVYuw17CTWGvypLcLGq3DLhGG0vdeup81'
+API_KEY = 'xxx'
 
 start_dates = []
 date1 = '2023-09-01'
